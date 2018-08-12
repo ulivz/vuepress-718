@@ -1,6 +1,7 @@
 {
   "name": "vuepress-718",
   "description": "",
+  "sideEffects": false,
   "version": "1.0.0",
   "scripts": {
     "docs:dev": "vuepress dev docs",
